@@ -35,7 +35,7 @@
 		
 		<hr>
 		<div id='footer'>
-			<p>Todos los derechos reservados © <?php echo date('Y'); ?> - SmartReDe</p>
+			<p>Todos los derechos reservados © <?php echo date('Y'); ?> - Development</p>
 		</div>
 	</div>
 </body>
