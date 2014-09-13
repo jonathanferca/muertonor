@@ -12,6 +12,14 @@ var defaultAnswers = [
     "A veces es mejor no saber la respuesta",
     "Ten cuidado con lo que preguntas",
     "No es seguro que te conteste eso",
+    "Realmente no te quiero contestar a ti",
+    "Tus preguntas son pateticas para mi conocimiento",
+    "No me tomaré la molestia en contestar",
+    "Realmente esa es tu pregunta?",
+    "Estoy muy cansado para contestarte",
+    "No te contestaré eso",
+    "Tienes que creer en mi, para que te pueda contestar",
+    "Me ofendes con esa pregunta",
 ];
 
 $(document).ready(function(){
