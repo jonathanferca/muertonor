@@ -35,7 +35,7 @@
 		
 		<hr>
 		<div id='footer'>
-			<p>Todos los derechos reservados © <?php echo date('Y'); ?> - Development</p>
+			<p><a href="http://www.procastina.com">Procastina Blog</a> - <?php echo date('Y'); ?></p>
 		</div>
 	</div>
 </body>
