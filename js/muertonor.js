@@ -104,6 +104,7 @@ $(document).ready(function(){
 
 
     $("#trick_anchor").on("click", function(e) {
+        e.preventDefault();
         $("#trick_info").toggle();
     });
 });
