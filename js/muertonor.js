@@ -101,4 +101,9 @@ $(document).ready(function(){
         
         $("#request").focus();
     });
+
+
+    $("#trick_anchor").on("click", function(e) {
+        $("#trick_info").toggle();
+    });
 });
